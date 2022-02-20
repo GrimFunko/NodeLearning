@@ -1,0 +1,1 @@
+Whadup! This is a test string in my notes app.New message, test of appending method.
