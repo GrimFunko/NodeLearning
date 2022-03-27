@@ -1,4 +1,5 @@
-const fs = require('fs')
-fs.appendFileSync('notes.txt', 'New message, test of appending method.')
+const getNotes = require('./Utils.js')
 
+console.log(getNotes());
 
+// h('Bill', 'Cheerio');
